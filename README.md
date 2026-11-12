@@ -13,6 +13,10 @@ Baixe a versão mais recente em **[Releases](../../releases/latest)**:
 Não precisa instalar: é um executável único. Ao abrir, o programa verifica se
 há versão nova aqui e se atualiza com um clique.
 
+**Onde guardar:** numa pasta sua, por exemplo `Documentos\CutZera`, e crie um
+atalho na Área de Trabalho. Não coloque em *Arquivos de Programas*: o botão
+«Atualizar» precisa poder trocar o próprio arquivo.
+
 No Windows, a primeira execução pode mostrar o aviso do SmartScreen (o
 executável não é assinado): *Mais informações → Executar assim mesmo*.
 
